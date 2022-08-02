@@ -10,3 +10,7 @@ Endpoint Details:
   
 3. DELETE api/ship
   - Used to attack. Send co-ordinates as part of request body. GameId return as part of POST api/board should be sent as a header ` { "gameId": "1" } `
+
+
+Endpoints are hosted on AWS: 
+_Base url_ : https://k6hfbp8s4c.execute-api.us-east-1.amazonaws.com/Prod
